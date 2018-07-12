@@ -25,3 +25,7 @@ describe('Selectors', () => {
   });
 
 });
+
+function paragraphSelector() {
+  return $('p');
+}
