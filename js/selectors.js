@@ -11,5 +11,5 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return 
+  return $('div.pics');
 }
