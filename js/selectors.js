@@ -15,6 +15,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-  console.log($('ul li:first-child'));
-  debugger
+  $('ul li:first-child');
 }
